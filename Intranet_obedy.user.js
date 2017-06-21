@@ -1,0 +1,1 @@
+/home/johny/.mozilla/firefox/hv4un6c9.default/gm_scripts/Intranet_obedy/Intranet_obedy.user.js
